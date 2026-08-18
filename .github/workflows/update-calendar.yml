@@ -1,0 +1,35 @@
+name: Update LPE Lunch Calendar
+
+on:
+  schedule:
+    # Runs daily at 10:00 UTC (6:00am ET during EDT / 5:00am ET during EST).
+    - cron: "0 10 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-calendar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate calendar feed
+        run: python generate_ics.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/lpe_lunch_menu.ics
+          if git diff --cached --quiet; then
+            echo "No menu changes."
+          else
+            git commit -m "Update LPE lunch menu calendar"
+            git push
+          fi
