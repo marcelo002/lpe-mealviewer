@@ -8,19 +8,8 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:lpe-lunch-20261104@lpe-mealviewer.local
-DTSTAMP:20261107T161140Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-SUMMARY:Grilled Cheese Sandwich / Egg\, Muffin\, Cheese\, & Apples Box
-DESCRIPTION:Entrees: Grilled Cheese Sandwich\, Egg\, Muffin\, Cheese\, & Ap
- ples Box\nVegetables: Tater Tots\, Coleslaw\, Emoji Fries\nFruits: Fresh Or
- ange\, Fresh Apple Slices\nMilk: Assorted Milk
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:lpe-lunch-20261105@lpe-mealviewer.local
-DTSTAMP:20261107T161140Z
+DTSTAMP:20261108T163319Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Mac and Cheese / Grilled Chicken Breast Salad
@@ -31,7 +20,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lpe-lunch-20261106@lpe-mealviewer.local
-DTSTAMP:20261107T161140Z
+DTSTAMP:20261108T163319Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Breaded Mozzarella Sticks / Bento Box w/Pepperoni\, Cheese\, Marina
@@ -44,18 +33,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lpe-lunch-20261109@lpe-mealviewer.local
-DTSTAMP:20261107T161140Z
+DTSTAMP:20261108T163319Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:Hummus Cup with Cheese & Corn Tortilla Chips
 DESCRIPTION:Entrees: Hummus Cup with Cheese & Corn Tortilla Chips\nVegetabl
  es: Mango Splash Vegetable Juice\, Carrot Dippers with Ranch Dressing\nFrui
- ts: Peach Cup\nMilk: Assorted Milk
+ ts: Fresh DoD Apple\, Fresh Apple Slices\nMilk: Assorted Milk
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lpe-lunch-20261110@lpe-mealviewer.local
-DTSTAMP:20261107T161140Z
+DTSTAMP:20261108T163319Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Jerk Seasoned Drumstick / Yogurt & Cheese Cool Pack
@@ -67,7 +56,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lpe-lunch-20261111@lpe-mealviewer.local
-DTSTAMP:20261107T161140Z
+DTSTAMP:20261108T163319Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Hamburger\, 2.0 oz / Cheeseburger +1 more
@@ -78,7 +67,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lpe-lunch-20261112@lpe-mealviewer.local
-DTSTAMP:20261107T161140Z
+DTSTAMP:20261108T163319Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Tangerine Chicken / Popcorn Chicken Salad
@@ -90,7 +79,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lpe-lunch-20261113@lpe-mealviewer.local
-DTSTAMP:20261107T161140Z
+DTSTAMP:20261108T163319Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Stuffed Cheesy Breadstick / Turkey & American on Bun
@@ -101,7 +90,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lpe-lunch-20261116@lpe-mealviewer.local
-DTSTAMP:20261107T161140Z
+DTSTAMP:20261108T163319Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Calzone\, Cheeseburger / Yogurt\, Cheese\, w/ Banana Bread Plate
@@ -113,7 +102,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lpe-lunch-20261117@lpe-mealviewer.local
-DTSTAMP:20261107T161140Z
+DTSTAMP:20261108T163319Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Cuban Style Mojo Pork / PBJ\, 2.6 oz & Cheese
@@ -125,7 +114,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lpe-lunch-20261118@lpe-mealviewer.local
-DTSTAMP:20261107T161140Z
+DTSTAMP:20261108T163319Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Turkey Sausage Patty\, Scrambled Eggs and Croissant / Egg\, Muffin\
@@ -137,7 +126,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lpe-lunch-20261119@lpe-mealviewer.local
-DTSTAMP:20261107T161140Z
+DTSTAMP:20261108T163319Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Holiday Turkey Slices / PBJ\, 2.6 oz & Cheese
@@ -149,7 +138,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lpe-lunch-20261120@lpe-mealviewer.local
-DTSTAMP:20261107T161140Z
+DTSTAMP:20261108T163319Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Four Cheese Pizza Slice / Turkey & American Croissant
@@ -160,58 +149,53 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lpe-lunch-20261130@lpe-mealviewer.local
-DTSTAMP:20261107T161140Z
+DTSTAMP:20261108T163319Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
-SUMMARY:Popcorn Chicken / Breaded Chicken Nuggets +1 more
-DESCRIPTION:Entrees: Popcorn Chicken\, Breaded Chicken Nuggets\, PBJ\, 2.6 
- oz & Cheese\nVegetables: Potatoes\, Mashed\, Peas & Carrots\nFruits: Strawb
- erry Kiwi Juice\, Fruit Juice Blend\, Apple Juice\, Orange Juice\nMilk: Ass
- orted Milk
+SUMMARY:Popcorn Chicken / PBJ\, 2.6 oz & Cheese
+DESCRIPTION:Entrees: Popcorn Chicken\, PBJ\, 2.6 oz & Cheese\nVegetables: P
+ otatoes\, Mashed\, Peas & Carrots\nFruits: Strawberry Kiwi Juice\, Fruit Ju
+ ice Blend\, Apple Juice\nMilk: Assorted Milk
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lpe-lunch-20261201@lpe-mealviewer.local
-DTSTAMP:20261107T161140Z
+DTSTAMP:20261108T163319Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
-SUMMARY:Turkey Barbacoa Birria Soft Tacos w/shredded chees / Turkey Barbaco
- a Birria Nachos w/shredded cheese +1 more
-DESCRIPTION:Entrees: Turkey Barbacoa Birria Soft Tacos w/shredded chees\, T
- urkey Barbacoa Birria Nachos w/shredded cheese\, Yogurt\, Cheese\, w/ Banan
- a Bread Plate\nVegetables: Pinto Beans\, 1/2 cup\, Salsa Dipping Cup\, Pint
- o Beans\nFruits: Peach Cup\, Strawberry Cup\, Mixed Berry Fruit Cup\nMilk: 
- Assorted Milk
+SUMMARY:Turkey Barbacoa Birria Nachos w/shredded cheese / Yogurt\, Cheese\,
+  w/ Banana Bread Plate
+DESCRIPTION:Entrees: Turkey Barbacoa Birria Nachos w/shredded cheese\, Yogu
+ rt\, Cheese\, w/ Banana Bread Plate\nVegetables: Pinto Beans\, 1/2 cup\, Sa
+ lsa Dipping Cup\, Pinto Beans\nFruits: Mixed Berry Fruit Cup\nMilk: Assorte
+ d Milk
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lpe-lunch-20261202@lpe-mealviewer.local
-DTSTAMP:20261107T161140Z
+DTSTAMP:20261108T163319Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-SUMMARY:Grilled Cheese Sandwich / Buttermilk Pancakes w/ Turkey Sausage +1 
- more
-DESCRIPTION:Entrees: Grilled Cheese Sandwich\, Buttermilk Pancakes w/ Turke
- y Sausage\, Egg\, Muffin\, Cheese\, & Apples Box\nVegetables: Tater Tots\, 
- Coleslaw\nFruits: Fresh Tangerine\, Fresh Apple Slices\, Red Delicious Appl
- e\nMilk: Assorted Milk
+SUMMARY:Grilled Cheese Sandwich / Egg\, Muffin\, Cheese\, & Apples Box
+DESCRIPTION:Entrees: Grilled Cheese Sandwich\, Egg\, Muffin\, Cheese\, & Ap
+ ples Box\nVegetables: Tater Tots\, Coleslaw\nFruits: Fresh Apple Slices\nMi
+ lk: Assorted Milk
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lpe-lunch-20261203@lpe-mealviewer.local
-DTSTAMP:20261107T161140Z
+DTSTAMP:20261108T163319Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-SUMMARY:Mac and Cheese / Spaghetti w/ Meatballs +1 more
-DESCRIPTION:Entrees: Mac and Cheese\, Spaghetti w/ Meatballs\, Grilled Chic
- ken Breast Salad\nVegetables: Garlic Spinach\, Garden Side Salad\nFruits: S
- trawberry Kiwi Juice\, Fruit Juice Blend\, Apple Juice\, Orange Juice\nMilk
- : Assorted Milk
+SUMMARY:Mac and Cheese / Grilled Chicken Breast Salad
+DESCRIPTION:Entrees: Mac and Cheese\, Grilled Chicken Breast Salad\nVegetab
+ les: Garlic Spinach\, Garden Side Salad\nFruits: Strawberry Kiwi Juice\, Fr
+ uit Juice Blend\, Apple Juice\nMilk: Assorted Milk
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lpe-lunch-20261204@lpe-mealviewer.local
-DTSTAMP:20261107T161140Z
+DTSTAMP:20261108T163319Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Four Cheese Pizza Slice / Breaded Mozzarella Sticks +1 more
@@ -224,7 +208,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lpe-lunch-20261207@lpe-mealviewer.local
-DTSTAMP:20261107T161140Z
+DTSTAMP:20261108T163319Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Butterball Turkey Hot Dog on WG Bun / Eisenberg Beef Hot Dog on WG 
@@ -233,6 +217,19 @@ DESCRIPTION:Entrees: Butterball Turkey Hot Dog on WG Bun\, Eisenberg Beef H
  ot Dog on WG Bun\, Hummus Cup with Cheese & Corn Tortilla Chips\nVegetables
  : Mango Splash Vegetable Juice\, Carrot Dippers with Ranch Dressing\nFruits
  : Strawberry Cup\, Peach Cup\, Mixed Berry Fruit Cup\nMilk: Assorted Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lpe-lunch-20261208@lpe-mealviewer.local
+DTSTAMP:20261108T163319Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Sofrito Roasted Drumstick / Jerk Seasoned Drumstick +1 more
+DESCRIPTION:Entrees: Sofrito Roasted Drumstick\, Jerk Seasoned Drumstick\, 
+ Yogurt & Cheese Cool Pack\nBreads/Grains: Sweet Brazilian Bun\nVegetables: 
+ Sweet Plantain Slices\, Golden Sun Splash Vegetable Juice\nFruits: Applesau
+ ce\, Strawberry 4.5 oz\, Applesauce 4.5 oz\, Applesauce\, Cinnamon 4.5 oz\,
+  Applesauce\, Birthday Cake 4.5 oz\nMilk: Assorted Milk
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
