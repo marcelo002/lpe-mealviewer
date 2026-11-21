@@ -8,20 +8,8 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:lpe-lunch-20261117@lpe-mealviewer.local
-DTSTAMP:20261120T182505Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:Cuban Style Mojo Pork / PBJ\, 2.6 oz & Cheese
-DESCRIPTION:Entrees: Cuban Style Mojo Pork\, PBJ\, 2.6 oz & Cheese\nBreads/
- Grains: Seasoned Brown Rice\, 1/2 cup\nVegetables: Pinto Beans\, 1/2 cup\, 
- Steamed Corn\, 1/2 cup\nFruits: Applesauce\, Strawberry 4.5 oz\nMilk: Assor
- ted Milk
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:lpe-lunch-20261118@lpe-mealviewer.local
-DTSTAMP:20261120T182505Z
+DTSTAMP:20261121T171306Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Turkey Sausage Patty\, Scrambled Eggs and Croissant / Egg\, Muffin\
@@ -33,7 +21,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lpe-lunch-20261119@lpe-mealviewer.local
-DTSTAMP:20261120T182505Z
+DTSTAMP:20261121T171306Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Holiday Turkey Slices / PBJ\, 2.6 oz & Cheese
@@ -45,7 +33,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lpe-lunch-20261120@lpe-mealviewer.local
-DTSTAMP:20261120T182505Z
+DTSTAMP:20261121T171306Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Four Cheese Pizza Slice / Turkey & American Croissant
@@ -56,7 +44,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lpe-lunch-20261130@lpe-mealviewer.local
-DTSTAMP:20261120T182505Z
+DTSTAMP:20261121T171306Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Popcorn Chicken / PBJ\, 2.6 oz & Cheese
@@ -67,7 +55,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lpe-lunch-20261201@lpe-mealviewer.local
-DTSTAMP:20261120T182505Z
+DTSTAMP:20261121T171306Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Turkey Barbacoa Birria Nachos w/shredded cheese / Yogurt\, Cheese\,
@@ -80,7 +68,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lpe-lunch-20261202@lpe-mealviewer.local
-DTSTAMP:20261120T182505Z
+DTSTAMP:20261121T171306Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Grilled Cheese Sandwich / Egg\, Muffin\, Cheese\, & Apples Box
@@ -91,7 +79,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lpe-lunch-20261203@lpe-mealviewer.local
-DTSTAMP:20261120T182505Z
+DTSTAMP:20261121T171306Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Mac and Cheese / Grilled Chicken Breast Salad
@@ -102,7 +90,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lpe-lunch-20261204@lpe-mealviewer.local
-DTSTAMP:20261120T182505Z
+DTSTAMP:20261121T171306Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Four Cheese Pizza Slice / Bento Box w/Pepperoni\, Cheese\, Marinara
@@ -114,7 +102,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lpe-lunch-20261207@lpe-mealviewer.local
-DTSTAMP:20261120T182505Z
+DTSTAMP:20261121T171306Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Eisenberg Beef Hot Dog on WG Bun / Hummus Cup with Cheese & Corn To
@@ -127,7 +115,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lpe-lunch-20261208@lpe-mealviewer.local
-DTSTAMP:20261120T182505Z
+DTSTAMP:20261121T171306Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:Jerk Seasoned Drumstick / Yogurt & Cheese Cool Pack
@@ -138,7 +126,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lpe-lunch-20261209@lpe-mealviewer.local
-DTSTAMP:20261120T182505Z
+DTSTAMP:20261121T171306Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Lunch Menu
@@ -148,7 +136,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lpe-lunch-20261210@lpe-mealviewer.local
-DTSTAMP:20261120T182505Z
+DTSTAMP:20261121T171306Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Cheeseburger / Hamburger\, 2.0 oz +1 more
@@ -159,7 +147,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lpe-lunch-20261211@lpe-mealviewer.local
-DTSTAMP:20261120T182505Z
+DTSTAMP:20261121T171306Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:PizzaBoli / Turkey & American on Bun
@@ -170,7 +158,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lpe-lunch-20261214@lpe-mealviewer.local
-DTSTAMP:20261120T182505Z
+DTSTAMP:20261121T171306Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:Calzone\, Cheeseburger / Yogurt\, Cheese\, w/ Banana Bread Plate
@@ -182,7 +170,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lpe-lunch-20261215@lpe-mealviewer.local
-DTSTAMP:20261120T182505Z
+DTSTAMP:20261121T171306Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Cuban Style Mojo Pork / PBJ\, 2.6 oz & Cheese
@@ -194,58 +182,41 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lpe-lunch-20261216@lpe-mealviewer.local
-DTSTAMP:20261120T182505Z
+DTSTAMP:20261121T171306Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-SUMMARY:Pancake Bites / Mozzarella Cheese Stick +3 more
-DESCRIPTION:Entrees: Pancake Bites\, Mozzarella Cheese Stick\, Turkey Sausa
- ge Patty\, Scrambled Eggs and Croissant\, Scrambled Eggs with Cheese & Fren
- ch Toast Platter\, Egg\, Muffin\, Cheese\, & Apples Box\nBreads/Grains: Cer
- eal Blueberry Chex Bowl 1 oz\, Cheerios Gluten Free Bowl 1 oz\, Frosted Cor
- n Flakes Bowl 1 oz\, Rice Chex Gluten Free Bowl 1 oz\, Cocoa Puffs Bowl 1 o
- z\, Cinnamon Toast Crunch R/S Bowl 1 oz\, Trix Cereal Bowl 1 oz\, Nutrigrai
- n Bar\, Strawberry\, Trix Cereal Bar 1.42 oz\, WG Toast\nVegetables: Garlic
-  Spinach\, Harvest  Treats Veg Juice\nFruits: Banana\, fresh\, Pineapple\, 
- Wedges Frozen\, Orange Wedges\, Fresh Tangerine\, Fresh Apple Slices\nMilk:
-  Assorted Milk
+SUMMARY:Turkey Sausage Patty\, Scrambled Eggs and Croissant / Scrambled Egg
+ s with Cheese & French Toast Platter +1 more
+DESCRIPTION:Entrees: Turkey Sausage Patty\, Scrambled Eggs and Croissant\, 
+ Scrambled Eggs with Cheese & French Toast Platter\, Egg\, Muffin\, Cheese\,
+  & Apples Box\nVegetables: Garlic Spinach\, Harvest  Treats Veg Juice\nFrui
+ ts: Fresh Tangerine\, Orange Wedges\, Pineapple\, Wedges Frozen\, Fresh App
+ le Slices\nMilk: Assorted Milk
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lpe-lunch-20261217@lpe-mealviewer.local
-DTSTAMP:20261120T182505Z
+DTSTAMP:20261121T171306Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-SUMMARY:Power Box with Crackers (no yogurt) / Mozzarella Cheese Stick +2 mo
- re
-DESCRIPTION:Entrees: Power Box with Crackers (no yogurt)\, Mozzarella Chees
- e Stick\, Holiday Turkey Slices\, PBJ\, 2.6 oz & Cheese\nBreads/Grains: Blu
- eberry Muffin Top\, Cereal Blueberry Chex Bowl 1 oz\, Frosted Corn Flakes B
- owl 1 oz\, Trix Cereal Bowl 1 oz\, Rice Chex Gluten Free Bowl 1 oz\, Cocoa 
- Puffs Bowl 1 oz\, Cheerios Gluten Free Bowl 1 oz\, Cinnamon Toast Crunch R/
- S Bowl 1 oz\, Nutrigrain Bar\, Strawberry\, Trix Cereal Bar 1.42 oz\, WG To
- ast\, Mini Loaf- Blueberry\, WG\, Mini Loaf  Banana\, Sugar Cookie 1.2oz\, 
- Cookie 1.85 oz\nVegetables: Potatoes\, Mashed\, Green Beans& Corn fresh 1/2
- c\nFruits: Apple Juice\, Fruit Juice Blend\, Peach Cup\, Strawberry Cup\, M
- ixed Berry Fruit Cup\, Strawberry Kiwi Juice\, Orange Juice\nMilk: Assorted
-  Milk
+SUMMARY:Holiday Turkey Slices / PBJ\, 2.6 oz & Cheese
+DESCRIPTION:Entrees: Holiday Turkey Slices\, PBJ\, 2.6 oz & Cheese\nBreads/
+ Grains: Mini Loaf- Blueberry\, WG\, Mini Loaf  Banana\, Sugar Cookie 1.2oz\
+ , Cookie 1.85 oz\nVegetables: Potatoes\, Mashed\, Green Beans& Corn fresh 1
+ /2c\nFruits: Strawberry Kiwi Juice\, Fruit Juice Blend\, Apple Juice\, Oran
+ ge Juice\nMilk: Assorted Milk
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lpe-lunch-20261218@lpe-mealviewer.local
-DTSTAMP:20261120T182505Z
+DTSTAMP:20261121T171306Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-SUMMARY:Mozzarella Cheese Stick / Four Cheese Pizza Slice +3 more
-DESCRIPTION:Entrees: Mozzarella Cheese Stick\, Four Cheese Pizza Slice\, Fo
- ur Cheese Pepperoni Slice\, Turkey & American Croissant\, 6" Personal Chees
- e Pizza\nBreads/Grains: Swirl Raspberry\, Sweet Potato Swirl\, Cereal Blueb
- erry Chex Bowl 1 oz\, Frosted Corn Flakes Bowl 1 oz\, Trix Cereal Bowl 1 oz
- \, Cinnamon Toast Crunch R/S Bowl 1 oz\, Cheerios Gluten Free Bowl 1 oz\, C
- ocoa Puffs Bowl 1 oz\, Rice Chex Gluten Free Bowl 1 oz\, Nutrigrain Bar\, S
- trawberry\, Trix Cereal Bar 1.42 oz\, WG Toast\nVegetables: Marinara Dippin
- g Sauce Cup\, Italian Blend Vegetables\nFruits: Orange Wedges\, Golden Deli
- cious Apple\, Mixed Berry Fruit Cup\, Strawberry Cup\, Peach Cup\nMilk: Ass
- orted Milk
+SUMMARY:Four Cheese Pizza Slice / Four Cheese Pepperoni Slice +2 more
+DESCRIPTION:Entrees: Four Cheese Pizza Slice\, Four Cheese Pepperoni Slice\
+ , Turkey & American Croissant\, 6" Personal Cheese Pizza\nVegetables: Marin
+ ara Dipping Sauce Cup\, Italian Blend Vegetables\nFruits: Strawberry Cup\, 
+ Peach Cup\, Mixed Berry Fruit Cup\nMilk: Assorted Milk
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
